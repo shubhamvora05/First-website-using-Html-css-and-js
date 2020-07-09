@@ -1,0 +1,355 @@
+.logo-image-home{
+  height: 105px;
+  width: 140px;
+  padding: 0;
+  margin: -23px 0 10px 160px;
+position: fixed;
+}
+
+/* topbar */
+.topbar{
+  margin-left: 500px;
+  margin-top: 35px;
+  font-size: 18px;
+  font-weight: 400;
+}
+/* below navbae */
+.banner{
+  height: 270px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+background-image: url("https://homezene.com/wp-content/themes/homezene-new/images/banner-bkgd.png")
+}
+.banner .inner .summary ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    margin-top: 30px;
+  }
+.banner .inner .summary ul li{
+  margin: 10px 50px;
+}
+.banner .inner .container .blw-nav-h3{
+  letter-spacing: 4px;
+  font-weight: 200;
+  font-size: 2rem;
+  color: grey;
+  opacity: 80%;
+  margin-top: 15px;
+}
+
+.inner{
+  height:270px;
+  width: 1080px;
+  margin: 0 auto;
+  font-family: 'PT Sans Narrow', sans-serif;
+  border-radius: 10px;
+  justify-content: center;
+}
+/* home-icon */
+.icon{
+  margin: 50px 20px 50px 20px;
+  padding: 1% 3% 1% 8%;
+}
+.icon-div{
+  height: 140px;
+  width: 140px;
+  padding-top: 11%;
+  border-radius: 50%;
+  background-color:#F4ECEC;
+}
+/* list below icon */
+
+.home-list-category{
+ margin-top: 7%;
+ margin-left: 70px;
+ padding: 1% 15%;
+}
+.list-div{
+ margin-right: 20px;
+ border: 3px;
+ padding: 20px 10px;
+ border-color: #DFDCDC;
+ border-style: solid;
+ border-width: medium;
+ border-radius: 7%;
+}
+.home-list-category .row .list-div .title{
+margin-left: 23px;
+}
+.home-list-category .row .list-div .title h4{
+  font-size: 2rem;
+  color: #F96B6B;
+}
+
+.home-list-category .row .list-div .list-div-sub-cat li{
+  font-size: 1.2rem;
+  margin-left: -45px;
+  padding: 10px;
+}
+.home-list-category .row .list-div .list-div-sub-cat li a{
+  color: black;
+}
+.home-list-category .row .list-div ul{
+list-style-type: none}
+.home-list-category .row .list-div .list-div-sub-cat li::before{
+content: "\25CE";
+color: red;
+padding: 15px;
+}
+
+/* footer */
+footer .container .row span{
+  font-size: 1.2rem;
+  margin-left: 40px;
+}
+footer .container {
+  margin-left: 240px;
+}
+.sub-menu-footer{
+  list-style-type: none;
+}
+.sub-menu-footer a{
+  color: grey;
+  font-size: 1.2rem;
+}
+footer{
+  margin: 20px auto 20px;
+}
+footer hr{
+  height: 10px;
+  color: grey;
+}
+.thanks-gif{
+  height: 140px;
+  width: 140px;
+}
+
+/* contact page */
+.contact-bdy{
+  background-color:#E7E7E7;
+}
+/* contact top */
+.contact-top{
+  height: 150px;
+  width: 75%;
+margin: 0 auto;
+  background-color: white;
+}
+.cont-top-img{
+  padding: 30px 0 0 50px;
+}
+.cont-topbar{
+ margin-left: 20%;
+ position: absolute;
+}
+/* contact form */
+
+.form{
+  background-color: white;
+  height: 630px;
+  width: 64%;
+  margin: 25px auto;
+  padding: 10px 0;
+}
+.contact-form{
+  margin-left: 13%;
+}
+.contact-form-lable{
+  margin-top: 14px;
+}
+.contact-bottom{
+  height: 130px;
+  width: 100%;
+  color: white;
+  margin-bottom: 0;
+  background-color: black;
+  padding-top: 35px;
+}
+.contact-footer-links{
+  margin: 0 36%;
+  padding: 5px 0;
+}
+
+
+@media only screen and (max-width: 800px) {
+/* top navbar */
+  .logo-image-home{
+    height: 150px;
+    width: 190px;
+    padding: 0;
+    margin:10px 180px 0;
+position: relative;
+display: none;
+}
+.home-upperside{
+  background-color:white;
+  background-image: url("image/electrotechguide name.jpg");
+background-repeat: no-repeat;
+background-size: 60% 70%;
+background-position: center;
+}
+.home-upperside-no-bg{
+  background-position: -9999px -9999px;
+}
+.topbar{
+  margin: 10px auto;
+}
+/* below navbar */
+.banner{
+  height: 370px;
+  background-color: black;
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIDkoZLLfW9Dp1wI0nWfNtcsygHmK-w4kRZw&usqp=CAU");
+    background-size: 100% 100%;
+margin-top: -50px;
+border-radius: 5%;
+}
+
+.banner .inner .container .blw-nav-h3 span{
+font-size: 2rem;
+display: inline;
+line-height: inherit;
+}
+
+ .summary ul li .summary-div{
+  background-color: white;
+  height: 130px;
+  width:130px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 10px 0 10px -17%;
+  position: absolute;
+}
+.summary ul li{
+  margin: 10px 10px;
+  color: black;
+  justify-content: space-between;
+}
+.blw-nav-h3{
+  letter-spacing: 4px;
+  color: white;
+  justify-content: center;
+  font-weight: 100;
+
+}
+.inner{
+  height:370px;
+    width: 360px;
+  margin: 0 auto;
+  font-family: 'PT Sans Narrow', sans-serif;
+  padding: 10px;
+  border-radius: 10px;
+}
+/* icon image */
+.icon-div{
+  height: 75px;
+  width: 75px;
+  padding-top: 11%;
+  border-radius: 50%;
+  margin-top: 10%;
+  margin-bottom: 55%;
+  background-color:#F4ECEC;
+}
+.icon-div img{
+  height: 50px;
+  width: 50px;
+}
+/* list below icon */
+
+.home-list-category{
+ margin-top: 7%;
+ margin-left: 70px;
+ padding: 1% 15%;
+}
+.list-div{
+ margin-right: 20px;
+ margin-top: 10px;
+ margin-left: -40px;
+ border: 3px;
+ padding: 20px 10px;
+ border-color: #DFDCDC;
+ border-style: solid;
+ border-width: medium;
+ border-radius: 7%;
+}
+.home-list-category .row .list-div .title{
+margin-left: 23px;
+}
+.home-list-category .row .list-div .title h4{
+  font-size: 2rem;
+  color: #F96B6B;
+}
+
+.home-list-category .row .list-div .list-div-sub-cat li{
+  font-size: 1.2rem;
+  margin-left: -45px;
+  padding: 10px;
+}
+.home-list-category .row .list-div .list-div-sub-cat li a{
+  color: black;
+}
+.home-list-category .row .list-div ul{
+list-style-type: none}
+.home-list-category .row .list-div .list-div-sub-cat li::before{
+content: "\25CE";
+color: red;
+padding: 15px;
+}
+
+/* footer */
+.bottom{
+  margin-top: 20px;
+}
+footer .container {
+  margin-left: 0;
+}
+.thanks-gif{
+  height: 140px;
+  width: 140px;
+  margin-left: 20%;
+}
+
+/* contact page */
+
+
+.contact-top{
+  height: 70px;
+  width: 100%;
+margin: 0 auto;
+  background-color: white;
+}
+.cont-top-img{
+  margin: -14px 10% 0;
+  padding-left: 20%;
+padding-right: 0;
+}
+
+.cont-topbar{
+ margin: -54px 0 0 -20px;
+background-color: white;
+}
+
+/* contact form */
+
+.form{
+  height: 730px;
+  width: 100%;
+  margin: 25px auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.contact-form{
+  margin-left: 0;
+  padding: 0 10%;
+  width: 100%;
+}
+.contact-form-lable{
+  margin-top: 14px;
+}
+.contact-footer-links{
+  margin: 0 8%;
+  padding: 5px 0;
+}
+}

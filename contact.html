@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+   <head>
+     <meta charset="utf-8">
+
+     <title>Contact Us</title>
+
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+     <link rel="stylesheet" href="E:\web devlopment\my first website\index.css">
+     <link rel="icon" type="image" href="E:\web devlopment\my first website\image\electrotechguide logo green.png">
+     <link href="https://fonts.googleapis.com/css2?family=Lora:wght@500&family=PT+Sans+Narrow&display=swap" rel="stylesheet">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+   </head>
+   <body class="contact-bdy">
+     <div class="contact-top">
+     <img src="image/electrotechguide name.png" class="cont-top-img"  alt="Electrotechguide">
+     <div class="home-upperside container-fluid" id="home-above">
+       <nav class="navbar navbar-expand-lg navbar-light cont-topbar">
+         <button class="navbar-toggler " id="nav-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+           <span class="navbar-toggler-icon"></span>
+         </button>
+
+         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+           <ul class="navbar-nav mr-auto">
+             <li class="nav-item active">
+               <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+             </li>
+             <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                 Buying Guide
+               </a>
+               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                 <a class="dropdown-item" href="#">Power Banks</a>
+                 <a class="dropdown-item" href="#">Head Phone</a>
+                 <a class="dropdown-item" href="#">Beard Trimmer</a>
+                 <a class="dropdown-item" href="#">Hair Straightener</a>
+                 <a class="dropdown-item" href="#">Watch </a>
+                 <a class="dropdown-item" href="#">Washing Machine</a>
+                 <a class="dropdown-item" href="#">Air Conditionar</a>
+                 <a class="dropdown-item" href="#">Refrigerator</a>
+               </div>
+             </li>
+             <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                 Top 10 Products
+               </a>
+               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                 <a class="dropdown-item" href="#">Power Banks</a>
+                 <a class="dropdown-item" href="#">Head Phone</a>
+                 <a class="dropdown-item" href="#">Beard Trimmer</a>
+                 <a class="dropdown-item" href="#">Hair Straightener</a>
+                 <a class="dropdown-item" href="#">Watch</a>
+                 <a class="dropdown-item" href="#">Washing Machine</a>
+                 <a class="dropdown-item" href="#">Air Conditionar</a>
+                 <a class="dropdown-item" href="#">Refrigerator</a>
+               </div>
+             </li>
+             <li class="nav-item active">
+               <a class="nav-link" href="#">Contact Us<span class="sr-only">(current)</span></a>
+             </li>
+           </ul>
+           <form class="form-inline my-2 my-lg-0">
+             <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+           </form>
+         </div>
+       </nav>
+     </div>
+      </div>
+
+      <!--Section: Contact form-->
+    
+<section class="mb-4 form">
+
+  <h2 class="h1-responsive font-weight-bold text-center my-4">Contact us</h2>
+    <p class="text-center w-responsive mx-auto mb-5">For any other queries send us an email at <b>electrotechguide141108@gmail.com</b></p>
+
+    <div class="row">
+
+        <div class="col-md-9  contact-form">
+            <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+
+                <div class="row">
+
+                    <div class="col-md-6">
+                        <div class="md-form mb-0">
+                          <label for="name" class="contact-form-lable"><h5>Your name</h5></label>
+                            <input type="text" id="name" name="name" class="form-control">
+
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="md-form mb-0">
+                          <label for="email" class="contact-form-lable"><h5>Your email</h5></label>
+                            <input type="text" id="email" name="email" class="form-control">
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="md-form mb-0">
+                          <label for="subject" class="contact-form-lable"><h5>Subject</h5></label>
+                            <input type="text" id="subject" name="subject" class="form-control">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+
+                    <div class="col-md-12">
+                        <div class="md-form">
+                          <label for="message" class="contact-form-lable"><h5>Your message</h5></label>
+                            <textarea type="text" id="message" name="message" rows="5" class="form-control md-textarea"></textarea>
+
+                        </div>
+                    </div>
+                </div>
+            </form>
+<br/>
+            <div class="text-center text-md-left ">
+                <a class="btn btn-primary" onclick="validateForm();">SUBMIT</a>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+<footer class="contact-bottom">
+  <center>
+    <div class="contact-footer-links">
+    <a href="#" style="color:white">Affiliate Disclosure</a>
+    &nbsp;|&nbsp;
+    <a href="#" style="color:white">Disclaimer</a>
+    &nbsp;|&nbsp;
+    <a href="#" style="color:white">Terms and Conditions</a>
+    </div>
+    <div class="contact-footer-links">
+      <span class="copyright">© 2020 Home Zene</span>
+       "• Powered by"
+       <a href="#" itemprop="url" style="color:white">GeneratePress</a>
+    </div>
+
+  </center>
+</footer>
+   </body>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="index.js" charset="utf-8"></script>
+ </html>
