@@ -1,0 +1,275 @@
+/* article top part */
+
+.article-bdy{
+  background-color:#E7E7E7;
+}
+h1,h2{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h3,h2{
+  margin-left: 10px;
+}
+
+/* contact top */
+.article-top{
+  padding: 4px;
+  width: 75%;
+margin: 0 auto 10px;
+  background-color: white;
+}
+.navbar-items{
+  margin-left: 6%;
+}
+.nav-padding{
+  padding: 4px 10px;
+}
+.top-bar{
+  margin-left: 3%;
+}
+
+/* article content */
+.article-content{
+  background-color: white;
+  width: 75%;
+  margin: 10px auto;
+  padding: 20px 10%;
+}
+.article-content p{
+  text-align: justify;
+  font-size: 1.1rem;
+  font-family: 'PT Sans', sans-serif;
+}
+
+/* products */
+.article-product{
+  margin-top: 20px;
+}
+.product-image{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+ol{
+list-style-type: none;
+margin: 0 0 7px 30px;
+padding: 7px 0;
+font-size: 1.1rem;
+}
+ol li{
+  padding-top: 5px;
+}
+ol li::before{
+content: "\25CE";
+color: darkgrey;
+padding: 15px;
+margin-left: -47px;
+}
+.product-colume{
+ margin-top: 20px;
+}
+
+/*  contact page footer */
+.contact-bottom{
+  width: 100%;
+  color: white;
+  margin-bottom: 0;
+  background-color: black;
+  padding-top: 35px;
+  padding-bottom: 30px;
+}
+.contact-footer-links{
+  margin: 0 36%;
+  padding: 5px 0;
+}
+
+/* comment section */
+.sec-comment {
+  width: 75%;
+  margin: 10px auto;
+  background-color: white;
+padding: 1%;
+}
+#comment{
+  border: dotted black 2px;
+  background-color: lightgrey;
+  width: 100%;
+}
+
+/*	readmore button */
+.readmore
+{
+	margin-left:86%;
+	border:1px solid black;
+	background-color:red;
+	color:white;
+}
+
+/* readless button */
+.readmore1
+{
+	margin-left:88%;
+	display:none;
+	border:1px solid black;
+	background-color:red;
+	color:white;
+}
+
+.hide
+{
+	display:none;
+}
+@media screen and (max-width: 1367px) {
+.readmore
+{
+	margin-left:82%;
+	border:1px solid black;
+	background-color:red;
+	color:white;
+}
+.readmore1
+{
+	margin-left:82%;
+	display:none;
+	border:1px solid black;
+	background-color:red;
+	color:white;
+}
+  .navbar-items{
+    margin-left: 6%;
+  }
+  .nav-padding{
+    padding: 2px 1px;
+  }
+  .top-bar{
+    margin-left: 4%;
+  }
+  .article-top{
+   width: 100%;
+   margin: -14px auto 0;
+   }
+   /* contact page footer */
+
+   .contact-footer-links{
+     margin: 0 8%;
+   }
+   /* * comment section */
+   .sec-comment {
+     width: 75%;
+   padding: 1%;
+   padding-bottom: 10px;
+   }
+
+}
+
+@media screen and (max-width: 991px) {
+.readmore
+{
+	margin-left:80%;
+	border:1px solid black;
+	background-color:red;
+	color:white;
+}
+.readmore1
+{
+	margin-left:80%;
+	display:none;
+	border:1px solid black;
+	background-color:red;
+	color:white;
+}
+/* start of medium tablet styles */
+.navbar-items{
+  margin-left: 0;
+}
+.nav-padding{
+  padding: 2px 0;
+}
+.top-bar{
+  margin-left: 10px;
+}
+/* article content */
+.article-content{
+  width: 100%;
+  padding:5px 13px;
+}
+.article-content p{
+  text-align: justify;
+  padding: 2px 13px;
+}
+
+/* * comment section */
+.sec-comment {
+  width: 100%;
+}
+}
+
+@media screen and (max-width: 768px) {
+.readmore
+{
+	margin-left:80%;
+	border:1px solid black;
+	background-color:red;
+	color:white;
+}
+.readmore1
+{
+	margin-left:80%;
+	display:none;
+	border:1px solid black;
+	background-color:red;
+	color:white;
+}
+  /* product-link-button  */
+ .product-link-button{
+   margin-left: 30%;
+ }
+ .product-colume{
+   padding-bottom: 10px;
+ }
+}
+
+@media only screen and (max-width: 479px) {
+.readmore
+{
+	margin-left:80%;
+	border:1px solid black;
+	background-color:red;
+	color:white;
+}
+.readmore1
+{
+	margin-left:80%;
+	display:none;
+	border:1px solid black;
+	background-color:red;
+	color:white;
+}
+
+/* article content */
+
+.article-content{
+  width: 100%;
+  padding:5px 13px;
+}
+.article-content p{
+  text-align: justify;
+  padding: 2px 13px;
+}
+
+
+.product-colume{
+  padding-bottom: 10px;
+}
+
+  /* article footer */
+  .contact-footer-links{
+    margin: 0 5%;
+    padding: 5px 0;
+}
+/
+
+/* contact page footer */
+
+.contact-footer-links{
+  margin: 0 2%;
+}
+}

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Top 10 casual watch</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="article.css">
+    <link rel="icon" type="image" href="electrotechguide logo green.png">
+  <link href="https://fonts.googleapis.com/css2?family=Arvo&family=PT+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+  </head>
+  <body class="article-bdy">
+<!-- top part -->
+
+<div class="article-top">
+  <nav class="navbar navbar-expand-lg navbar-light top-bar" style="margin-top: 15px;">
+  <a class="navbar-brand "  href="#"><img src="electrotechguide name.png" alt="Electrotechguide"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse navbar-items" id="navbarNavDropdown">
+  <ul class="navbar-nav ">
+    <li class="nav-item active nav-padding ">
+      <a class="nav-link "  href="#">Home <span class="sr-only">(current)</span></a>
+    </li>
+
+    <li class="nav-item dropdown nav-padding">
+      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Buying Guide
+      </a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <a class="dropdown-item" href="#">Power Banks</a>
+        <a class="dropdown-item" href="#">Head Phone</a>
+        <a class="dropdown-item" href="#">Beard Trimmer</a>
+        <a class="dropdown-item" href="#">Hair Straightener</a>
+        <a class="dropdown-item" href="#">Watch </a>
+        <a class="dropdown-item" href="#">Washing Machine</a>
+        <a class="dropdown-item" href="#">Air Conditionar</a>
+        <a class="dropdown-item" href="#">Refrigerator</a>
+      </div>
+    </li>
+    <li class="nav-item dropdown nav-padding">
+      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Top 10 Products
+      </a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <a class="dropdown-item" href="#">Power Banks</a>
+        <a class="dropdown-item" href="#">Head Phone</a>
+        <a class="dropdown-item" href="#">Beard Trimmer</a>
+        <a class="dropdown-item" href="#">Hair Straightener</a>
+        <a class="dropdown-item" href="#">Watch</a>
+        <a class="dropdown-item" href="#">Washing Machine</a>
+        <a class="dropdown-item" href="#">Air Conditionar</a>
+        <a class="dropdown-item" href="#">Refrigerator</a>
+      </div>
+    </li>
+    <li class="nav-item nav-padding">
+      <a class="nav-link "  href="#">Contact Us</a>
+    </li>
+  </ul>
+  <form class="form-inline my-2 my-lg-0 nav-padding">
+   <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+
+  </form>
+  </div>
+  </nav>
+ </div>
+
+<div class="article-content"> <center>
+  <h1>Best Casual watch at low budget In India</h1><br>
+  <span style="color: grey">Updated on 6<sup>th</sup>, July by Shubham Vora</span>
+  <hr>
+</center>
+<p>If you want to buy the best casual watch at a low budget then you must read this article.</p>
+<p>In this era, Anyone wants to look stylish.  Wherever you go outside your home or any demanding occasion,
+ you want you to look perfect but many people don’t know how to get a perfect look???  
+ They don’t know what they should do to get a casual look. There are many factors that make you casual like your dress sense,
+ fitting of your clothes, your shoes and one of that most important factors is to watch.</p>
+ <!-- read more button -->
+ <button id="readMore" class="readmore">Read More</button>
+ 
+
+
+<center><img src="https://electrotechguide.com/wp-content/uploads/2020/01/casual-dress-with-watch-300x300.jpg" alt="Casual Watch" class="hide"></center></br>
+<p class="hide">In your casual looks, it affects what kind of watch you wear. There are many types of watches like a  casual watch, Formal watch, Regular watch but on the occasion and in any party you should wear casual watch. Many people don’t know which type of casual watch they should wear but don’t worry. In this article, I will suggest the best casual watch at a low budget.</p>
+<p class="hide">Here I suggest you 10 to 12 casual watches that are available online at amazon. You can Buy From Amazon. With the watch, I also give a guide that watches the match with which type of dress and you should wear or not.</p>
+<p class="hide">If you don’t know which type of watch where you should wear then you should check our latest article on<a href="#"> Best Watch Buying Guide</a> and also check the article on <a href="#">Best formal watch in India at low budget.</a></p>
+<br><hr style="border: 0.5px dotted grey;" class="hide">
+<h2 class="hide"><u>Top 10 Casual watches</u></h2>
+
+<!-- products -->
+
+<div class="hide" class="article-product">
+  <h3>1.Titan Neo Analog Silver Dial Men’s Watch-1729SL01</h3>
+  <div class="container ">
+  <div class="row product-image">
+    <div class="col-12 col-md-6 ">
+      <center>
+        <img src="https://www.amazon.in/images/I/819zWY9n25L._UL1500_.jpg" class="Product-image" style="height:320px; width:200px;" alt="Casual Watch">
+
+      </center></div>
+    <div class="col-12 col-md-6 product-colume">
+      <h4>Features</h4>
+      <ol>
+        <li>Water Resistant Till 50 Meter</li>
+        <li>44 MM Diameter</li>
+        <li>Black Leather Band</li>
+        <li>Quartz Movement(Which Gives More Accuracy In Time)</li>
+        <li>24 Months Warranty</li>
+        <li>1800 To 2000 INR</li>
+      </ol>
+      <a href="https://amzn.to/3gQWIea" target="_"><input
+type="button" class="product-link-button" style="border-radius:25px;background-color:grey; padding:5px 10px;color:white;border:none;font-size:1.2rem; margin-top:15px;" value="Buy At Amazon"/></a>
+    </div>
+  </div>
+</div>
+<p>If you are finding best watch at age 24 and above then this watch is best for you. Diameter of this watch is 44 MM so it can easily fit on thick or medium wrist. With low price you are getting 24 months warranty instead of 12 month and also 50 M water resistant. So, you can use this watch in rain or at a time of hand washing.</p>
+<p>This is such an amazing Titan’s Rounded watch. This is from one of the best branded and casual watches at a low budget. If you wear this kind of watch (I mean branded) the first time then you will fill yourself different from the community. If you wear your regular dress yet you get a nice look with this watch. A watch with a black leather belt and inside silver material gives a perfect match with a black shirt or T-shirt with blue jeans and white shoes. That is the perfect matching. It’s my own experience with this kind of titan watch.</p>
+	
+</div>
+
+	<!-- read less button -->
+	<button id="readMore1" class="readmore1">Read Less</button>
+</div>
+<section class="sec-comment">
+  <div class="container-fluid "
+    <form enctype="text/plain" action="index.html" method="post">
+      <left> <label for="comment" style="font-size:1.2rem;font-weight:bold;margin-bottom:17px;">COMMENT:</label></left><br />
+      <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea><br /><br/>
+      <left> <button type="button" class="btn btn-outline-info bg-dark " style="border-radius:5px; border:none;">Post Comment</button></left>
+    </form>
+  </div>
+</section>
+
+
+<footer class="contact-bottom">
+  <center>
+    <div class="contact-footer-links">
+    <a href="#" style="color:white">Affiliate Disclosure</a>
+    &nbsp;|&nbsp;
+    <a href="#" style="color:white">Disclaimer</a>
+    &nbsp;|&nbsp;
+    <a href="#" style="color:white">Terms and Conditions</a>
+    </div>
+    <div class="contact-footer-links">
+      <span class="copyright">© 2020 Home Zene</span>
+       "• Powered by"
+       <a href="#" itemprop="url" style="color:white">GeneratePress</a>
+    </div>
+
+  </center>
+</footer>
+
+<script type="text/javascript">
+$(document).ready(function() {						
+				i = 0;
+				$("#readMore").click(function(){
+						if(i != 1)
+						{
+								$(".hide").css("display","block");
+								$("#readMore").css("display","none");
+								$("#readMore1").css("display","block");
+								i = 1;
+						}
+				});
+				
+				$('#readMore1').click(function(){
+						if(i == 1)
+						{
+								$(".hide").css("display","none");
+								$("#readMore").css("display","block");
+								$("#readMore1").css("display","none");
+								i = 0;
+						}
+				});
+				
+				
+});
+</script>
+
+
+ <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+ <script src="article.js" charset="utf-8"></script>
+
+  </body>
+</html>
